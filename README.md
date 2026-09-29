@@ -4,7 +4,7 @@ An interactive ML app that estimates a person's stroke risk from basic health an
 
 > **Educational demo only. Not a medical device or a diagnosis.**
 
-**Live app:** _add your Streamlit URL here after deploying_
+**Live app:** https://early-stroke-prediction-medical.streamlit.app/
 
 ## How it works
 - **Data:** Kaggle Healthcare Stroke Dataset (5,109 records, ~4.9% strokes), in `data/`.
@@ -22,7 +22,7 @@ streamlit run app.py
 ## Deploy (free)
 1. Push this repo to GitHub.
 2. Go to [share.streamlit.io](https://share.streamlit.io), click **New app**, pick this repo, branch `main`, main file `app.py`.
-3. Deploy, then paste the URL above.
+3. Deploy.
 
 ## Structure
 | File | Purpose |
